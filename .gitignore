@@ -1,1 +1,4 @@
 env/
+NLP/data/
+**/data/
+__pycache__/
